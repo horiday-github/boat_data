@@ -13,22 +13,22 @@ Qiitaの記事で紹介させていただいたコードや整形済みデータ
 
 
 * レーサーのデータ
-  * data_reader.py データ整形プログラム(正規表現)
-  * fan2004.txt HPからダウンロードしてLZH形式から変換したもの
-  * boat_racer.xlsx 整形したデータ(Excel)
-  * boat_racer.csv 整形したデータ(CSV)
+  * data_reader.py <br> データ整形プログラム(正規表現)
+  * fan2004.txt  <br>HPからダウンロードしてLZH形式から変換したもの
+  * boat_racer.xlsx  <br>整形したデータ(Excel)
+  * boat_racer.csv  <br>整形したデータ(CSV)
 
 
 <br>
 
 
 * レースのデータ
-  * scraping.ipnb データ整形プログラム(スクレイピング)
-  * order.csv 集めたデータ
+  * scraping.ipnb  <br>データ整形プログラム(スクレイピング)
+  * order.csv  <br>集めたデータ(CSV)
 
 
 
-## Qiita記事
+## Qiita記事(該当記事)
 
 Python：正規表現によりボートレーサーのデータを整然データに変換する(LZH→CSV)
 https://qiita.com/horiday_qiita/items/4c5b39de50b9b9c904ca
