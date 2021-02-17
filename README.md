@@ -5,6 +5,14 @@
 
 Qiitaの記事で紹介させていただいたコードや整形済みデータ例を一部保管しています。ボートレースでデータ分析したい時に使用してください。
 
+# ファイルの説明
+data_reader.py データ整形プログラム(正規表現)
+fan2004.txt HPからダウンロードしてLZH形式から変換したもの
+boat_racer.xlsx 整形したデータ(Excel)
+boat_racer.csv 整形したデータ(CSV)
+
+scraping.ipnb データ整形プログラム(スクレイピング)
+order.csv 集めたデータ
 
 
 
